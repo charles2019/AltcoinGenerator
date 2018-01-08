@@ -14,10 +14,10 @@
 # CHAIN variable below
 
 # change the following variables to match your new coin
-COIN_NAME="MyCoin"
-COIN_UNIT="MYC"
-# 42 million lite coins at total
-TOTAL_SUPPLY=42000000
+COIN_NAME="HOFJcoin"
+COIN_UNIT="HOFJ"
+# 100 million lite coins at total
+TOTAL_SUPPLY=100000000
 MAINNET_PORT="54321"
 TESTNET_PORT="54322"
 PHRASE="Some newspaper headline that describes something that happened today"
